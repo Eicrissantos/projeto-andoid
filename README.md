@@ -4,55 +4,51 @@ Projeto de site responsivo desenvolvido com HTML5 e CSS3, que apresenta a histó
 
 O objetivo do projeto é praticar estruturação semântica, estilização moderna, responsividade e animações suaves, simulando um artigo informativo real.
 
-🚀 Tecnologias Utilizadas
+🚀 Tecnologias Utilizadas.
 
 HTML5
 
-Estrutura semântica (header, nav, main, article, aside, footer)
+-Estrutura semântica (header, nav, main, article, aside, footer)
 
-Uso de picture para imagens responsivas
+-Uso de picture para imagens responsivas
 
-Incorporação de vídeo com iframe
+-Incorporação de vídeo com iframe
 
 CSS3
 
-Variáveis CSS (:root)
+-Variáveis CSS (:root)
 
-Gradientes e sombras
+-Gradientes e sombras
 
-Animações com @keyframes
+-Animações com @keyframes
 
-Layout responsivo com media queries
+-Layout responsivo com media queries
 
-Tipografia personalizada com Google Fonts e fonte local
+-Tipografia personalizada com Google Fonts e fonte local
 
 🎨 Principais Funcionalidades
 
-Layout moderno e agradável
+-Layout moderno e agradável
 
-Design totalmente responsivo (desktop e mobile)
+-Design totalmente responsivo (desktop e mobile)
 
-Animações suaves na entrada dos elementos
+-Animações suaves na entrada dos elementos
 
-Estilização consistente usando variáveis CSS
+-Estilização consistente usando variáveis CSS
 
-Conteúdo organizado em formato de artigo
+-Conteúdo organizado em formato de artigo
 
 Lista informativa com versões do Android
 
 📚 O que foi praticado neste projeto
 
-Boas práticas de HTML semântico
+-Boas práticas de HTML semântico
 
-Organização e reaproveitamento de estilos no CSS
+-Organização e reaproveitamento de estilos no CSS
 
-Criação de interfaces responsivas
+-Criação de interfaces responsivas
 
-Uso de animações sem comprometer a performance
+-Uso de animações sem comprometer a performance
 
-Estruturação de um projeto para portfólio front-end
+-Estruturação de um projeto para portfólio front-end
 
-🧑‍💻 Autor
-
-Projeto desenvolvido por Cristiano Santos
-Estudante de Front-End, focado em HTML, CSS e JavaScript 🚀
